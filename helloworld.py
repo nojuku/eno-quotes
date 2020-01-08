@@ -2,7 +2,6 @@ import os
 import requests
 from lxml import html
 from flask import Flask
-from scraper import scrape
 
 def scrape():
 
